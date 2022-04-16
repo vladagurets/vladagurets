@@ -8,5 +8,7 @@ A couple of months ago I decided to dive into open-source community and currentl
 
 <!-- ![Used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vladagurets&layout=compact) -->
 <p>
+  
 ![](https://github-readme-stats.vercel.app/api?username=vladagurets&show_icons=true&count_private=true&hide=contribs)
+  
 </p>
