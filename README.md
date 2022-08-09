@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://www.supportukraine.co/)
 
-My name is [Vlad](https://www.linkedin.com/in/vladyslav-ohirenko).
+👋👋👋
 
 I’m 5 years experienced web developer specializing in modern reactive & feature-rich web applications.
 
